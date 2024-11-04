@@ -1,4 +1,4 @@
-== guachipelin ==
+== desampakistan ==
 
 Contributors: juanpre.dev
 Requires at least: 6.6
@@ -21,8 +21,8 @@ Photo Platform
 
 == Copyright ==
 
-guachipelin WordPress Theme, (C) 2024 juanpre.dev
-guachipelin is distributed under the terms of the GNU GPL.
+desampakistan WordPress Theme, (C) 2024 juanpre.dev
+desampakistan is distributed under the terms of the GNU GPL.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
